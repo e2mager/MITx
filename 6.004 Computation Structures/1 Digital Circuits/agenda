@@ -1,0 +1,18 @@
+Part 1 — Digital Circuits.
+
+The course is divided into 4 2-week sections:
+ * Basics of Information, the Digital Abstraction [Assignment 1]
+discusses how to encode information using electrical signals
+ * CMOS, Combinational Logic [Assignment 2]
+design of logic gates, which are circuits of transistor switches that can perform simple operations on the encoded information
+ * Sequential Logic, Finite-state Machines [Assignment 3]
+build memory components that store information and show how to use them to design circuits that perform sequences of computations
+ * Performance Measures, Design Tradeoffs [Assignment 4]
+discusses how to minimize the size and maximize the performance of our designs
+
+Each section consists of:
+ - 2 lecture chapters, divided into 3 sections:
+	 - Lecture Videos (lecture videos and exercises)
+	 - Worked Examples (video of a sample tutorial problem being solved, and the sample problem itself)
+	 - Tutorial Problems (practice problems with detailed solutions)
+ - an assignment
